@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: ExchangeRateComparator
+
+springdoc:
+  swagger-ui:
+    path: /exchange-rate-comparator/swagger-ui.html
+
+auth:
+  username: user
+  password: pass
+
+provider:
+  cnb:
+    url: https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.xml
+  frankfurter:
+    url: https://api.frankfurter.dev/v1/latest

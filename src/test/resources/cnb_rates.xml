@@ -1,0 +1,6 @@
+<kurzy banka="CNB" datum="21.03.2025" poradi="57">
+    <tabulka typ="XML_TYP_CNB_KURZY_DEVIZOVEHO_TRHU">
+        <radek kod="EUR" mena="euro" mnozstvi="1" kurz="24,980" zeme="EMU"/>
+        <radek kod="ISK" mena="koruna" mnozstvi="100" kurz="17,311" zeme="Island"/>
+    </tabulka>
+</kurzy>
